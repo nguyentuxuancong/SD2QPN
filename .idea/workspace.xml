@@ -1,0 +1,170 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="3688fb18-15dc-4956-aa4a-b784055c2e56" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DefaultGradleProjectSettings">
+    <option name="isMigrated" value="true" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/SD2QPN" />
+  </component>
+  <component name="ProjectId" id="1Oaevy4G7AEghMT9VIISgIyeUQl" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="Downloaded.Files.Path.Enabled" value="false" />
+    <property name="Repository.Attach.Annotations" value="false" />
+    <property name="Repository.Attach.JavaDocs" value="false" />
+    <property name="Repository.Attach.Sources" value="false" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="android.sdk.path" value="D:/Android SDK" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="kotlin.migration.detection.enabled" value="false" />
+    <property name="last_opened_file_path" value="C:/xmlbeans-2.6.0" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+    <property name="settings.editor.selected.configurable" value="reference.settings.ide.settings.webservices" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\Program\IntellJ Project\TestXML" />
+      <recent name="D:\Program\IntellJ Project\TestXML\src\types" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\Program\IntellJ Project\TestXML" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="Project" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Project" />
+      <module name="TestXML" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Project" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="3688fb18-15dc-4956-aa4a-b784055c2e56" name="Default Changelist" comment="" />
+      <created>1561380759171</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1561380759171</updated>
+      <workItem from="1561380761403" duration="270000" />
+      <workItem from="1561381111731" duration="588000" />
+      <workItem from="1561381730884" duration="3752000" />
+      <workItem from="1561463496017" duration="4524000" />
+      <workItem from="1561471615327" duration="964000" />
+      <workItem from="1561514267274" duration="4508000" />
+      <workItem from="1561649663907" duration="25939000" />
+      <workItem from="1562140341581" duration="8125000" />
+      <workItem from="1562228640791" duration="3763000" />
+      <workItem from="1562236445954" duration="2072000" />
+      <workItem from="1562321500006" duration="10000" />
+      <workItem from="1562382259460" duration="1908000" />
+      <workItem from="1562772485103" duration="107000" />
+      <workItem from="1562773146524" duration="9091000" />
+      <workItem from="1562825180484" duration="22349000" />
+      <workItem from="1563275650041" duration="17047000" />
+      <workItem from="1564107889292" duration="7496000" />
+      <workItem from="1564219697944" duration="307000" />
+      <workItem from="1564220376555" duration="3302000" />
+      <workItem from="1564239102971" duration="7812000" />
+      <workItem from="1564321075039" duration="14988000" />
+      <workItem from="1564848324472" duration="1275000" />
+      <workItem from="1564934904331" duration="602000" />
+      <workItem from="1565017495704" duration="860000" />
+      <workItem from="1565160812929" duration="669000" />
+      <workItem from="1565189632156" duration="603000" />
+      <workItem from="1565257244345" duration="767000" />
+      <workItem from="1565282010195" duration="290000" />
+      <workItem from="1565284209561" duration="4525000" />
+      <workItem from="1565365283190" duration="605000" />
+      <workItem from="1565366881942" duration="603000" />
+      <workItem from="1565446802464" duration="7359000" />
+      <workItem from="1566206096786" duration="617000" />
+      <workItem from="1566350749110" duration="7505000" />
+      <workItem from="1566375378946" duration="16181000" />
+      <workItem from="1566796812262" duration="27000" />
+      <workItem from="1566796951639" duration="606000" />
+      <workItem from="1566896605327" duration="6105000" />
+      <workItem from="1572520322319" duration="48000" />
+      <workItem from="1572678351198" duration="4000" />
+      <workItem from="1573485200944" duration="4000" />
+      <workItem from="1573485234311" duration="613000" />
+      <workItem from="1573487080081" duration="742000" />
+      <workItem from="1573833873520" duration="44000" />
+      <workItem from="1577949237330" duration="1943000" />
+      <workItem from="1580222383225" duration="213000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state width="1493" height="210" key="GridCell.Tab.0.bottom" timestamp="1577951781151">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="210" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1577951781151" />
+    <state width="1493" height="210" key="GridCell.Tab.0.center" timestamp="1577951781151">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="210" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1577951781151" />
+    <state width="1493" height="210" key="GridCell.Tab.0.left" timestamp="1577951781151">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="210" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1577951781151" />
+    <state width="1493" height="210" key="GridCell.Tab.0.right" timestamp="1577951781151">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="210" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1577951781151" />
+    <state x="477" y="239" key="com.intellij.ide.util.TipDialog" timestamp="1580222382574">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="477" y="239" key="com.intellij.ide.util.TipDialog/0.0.1536.824@0.0.1536.824" timestamp="1580222382574" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/TestXML$Project.ic" NAME="Project Coverage Results" MODIFIED="1566383464715" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
+  </component>
+</project>
